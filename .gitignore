@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+Durum_Wheat_Dataset/
+
 # Distribution / packaging
 .Python
 build/
